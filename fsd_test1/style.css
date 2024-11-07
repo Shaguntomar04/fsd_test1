@@ -12,24 +12,13 @@ body {
 h1 {
     color: #333;
 }
-
-.para {
-    font-size: 1.2em;
-    margin-bottom: 20px;
-    padding-top: 20px;
+.joke-area{
     
-    height: 80px;
-    background-color: rgb(185, 184, 184);
-    border-radius: 5px;
-    
-  
-
-    
-
+   background-color:gray;
 
 }
 
-#joke{
+#getJokeBtn{
     background-color: #00ff7b;
     color: white;
     border: none;
@@ -39,7 +28,7 @@ h1 {
     margin: 10px;
     border-radius: 5px;
 }
-#clear{
+#clearJokeBtn{
     background-color: #ff0000;
     color: white;
     border: none;
